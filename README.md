@@ -23,10 +23,26 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. How would you describe preprocessing to someone new to CSS?
+
+CSS is a way of putting into words and symbols information about how you want a website to look visually (colors, backgrounds, organization, whitespace, etc). a CSS preprocessor gives the developer more tools and strategies to make this process easier, more intuitive, and more powerful. 
+
 2. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+Nesting in less was a game changer for me, it allowed me to focus more on styling and less on digging through my code to figure out where some style was overriding some other style due to specificty
+
+The concept that gave me the most trouble with less was remembering to run less-watch-compiler and changing the code half a dozen times wondering why it's not working.
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+In plain language, a variable is just something that can be changed, but in programming a variable is kind of like a label that points to some information. you can store just about anything inside a variable, from a single number to a deeply nested array of objects. Then when you want to work with that information in your code, you get to simply work with that 'label' instead of working with large clumps of data directly.
+
 4. What is the purpose of using functions in code?
+
+functions help break down your code into manageable chunks. Instead of doing everything you want your code to do one line at a time, you create functions to separate simple tasks, then call those functions in sequence to complete complex, multi-step tasks.
+
 5. What is JSON data?
+
+JavaScript Object Notation: a data format that converts javascript objects into plaintext strings. The syntax is almost identical to the syntax used for writing objects in javascript. One main exception is that key names are enclosed in quotes while this is optional in plain javascript.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
